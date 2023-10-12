@@ -2,7 +2,7 @@ import os
 import csv
 
 election_data = os.path.join("..","Resources","election_data.csv")
-#import data from 'budget_data.csv from resources folder
+#import data from 'election_data.csv from resources folder
 
 
 totalVotes = 0
